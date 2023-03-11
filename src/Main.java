@@ -4,7 +4,7 @@ public class Main {
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] % 2==0) arr[i]++;
         }
-        for (int index = 3; index <= 7; index++) {
+        for (int   index = 3; index <= 7; index++) {
             System.out.println(arr[index]);
         }
     }
